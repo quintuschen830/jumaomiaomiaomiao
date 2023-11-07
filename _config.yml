@@ -73,16 +73,15 @@ footer-text: 有一个橘猫在走路©2023
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: loffer #shortname
+disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 7959f2eef8750506b0b5
-  clientSecret: 7119afc68e1a3432932bff7504e1df2b473dbe9a
-  repo: snowsofyesteryear
-  owner: quintuschen830
-  proxy: https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token
-
+  clientID: 
+  clientSecret:
+  repo: 
+  owner: 
+  proxy:
 # 输入Google Analytics web tracking code
 google_analytics:
 
