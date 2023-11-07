@@ -81,7 +81,7 @@ gitalk:
   clientSecret: a5a594b97349215b195d21c7600b1749b3e865ca
   repo: snowsofyesteryear
   owner: quintuschen830
-  proxy:
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
 
 # 输入Google Analytics web tracking code
 google_analytics:
