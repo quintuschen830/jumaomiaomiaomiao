@@ -41,7 +41,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 10
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
@@ -55,7 +55,7 @@ footer-links:
   dribbble: # https://dribbble.com/<>
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: #FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
@@ -77,10 +77,10 @@ disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 65856b341f793f79cd2b
+  clientSecret: a5a594b97349215b195d21c7600b1749b3e865ca
+  repo: snowsofyesteryear
+  owner: quintuschen830
   proxy:
 
 # 输入Google Analytics web tracking code
